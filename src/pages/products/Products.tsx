@@ -1,4 +1,4 @@
-import "./home.scss"
+import "./products.scss"
 
 const Products = () => {
   return (
